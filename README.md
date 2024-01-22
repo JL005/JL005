@@ -1,16 +1,15 @@
-### Hi there 👋
+# About me 🦸🏽‍♂️
 
-<!--
-**JL005/JL005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Juan Fernando Lopera Muñoz, a 23-year-old from Medellin, Colombia. Currently studying systems engineering, I'm passionate about backend development, where I find joy in creating the foundations that power applications.
 
-Here are some ideas to get you started:
+## Languages and tools: :gear::coffee::whale: 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,git,docker,aws"/ alt="Frameworks and languages">
+    <br>
+    <img src="https://skillicons.dev/icons?i=github,mysql,postgres,linux,bash,postman,idea,vscode"/ alt="Tools">
+  </a>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats: 📈
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JL005&layout=donut&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
